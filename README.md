@@ -1,14 +1,12 @@
-# Spicetify Config
+# ✨ Spicetify Config
 Here is my config for [spicetify](https://github.com/khanhas/spicetify-cli) a CLI to customize Spotify with Themes and Extensions.
 
-# My config
-
-## Theme
+## 🎨 Theme
 I'm using the [Onepunch](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Onepunch) theme with my custom modifications to have a color palette like the [CherryBlossom](https://github.com/morpheusthewhite/spicetify-themes/tree/master/CherryBlossom) coral theme.
 
 - [Onepunch with custom colors](./themes/Onepunch)
 
-## Extensions
+## 🔧 Extensions
 - [Bookmark](./extensions/bookmark.js)
 	> Easily store and browse pages, play tracks or tracks in specific time. Useful for who wants to check out an artist, album later without following them or writing their name down.
 
